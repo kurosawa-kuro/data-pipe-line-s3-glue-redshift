@@ -1,0 +1,5 @@
+{"timestamp": "2023-03-28T12:00:01Z", "level": "INFO",  "message": "User login",         "userId": 101, "sessionId": "abc123", "ipAddress": "192.168.0.10"}
+{"timestamp": "2023-03-28T12:00:05Z", "level": "INFO",  "message": "Dashboard viewed",  "userId": 101, "sessionId": "abc123", "ipAddress": "192.168.0.10"}
+{"timestamp": "2023-03-28T12:00:15Z", "level": "ERROR", "message": "Payment failed",     "userId": 102, "sessionId": "xyz890", "errorCode": 500, "ipAddress": "192.168.0.22"}
+{"timestamp": "2023-03-28T12:00:20Z", "level": "INFO",  "message": "User logout",        "userId": 101, "sessionId": "abc123", "ipAddress": "192.168.0.10"}
+{"timestamp": "2023-03-28T12:00:25Z", "level": "WARN",  "message": "Session timed out",  "userId": 103, "sessionId": "pqr456", "ipAddress": "192.168.0.33"}
