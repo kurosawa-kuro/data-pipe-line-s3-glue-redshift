@@ -1,0 +1,12 @@
+{
+    "jsonpaths": [
+      "$.timestamp",
+      "$.level",
+      "$.message",
+      "$.userId",
+      "$.sessionId",
+      "$.ipAddress",
+      "$.errorCode"
+    ]
+  }
+  
